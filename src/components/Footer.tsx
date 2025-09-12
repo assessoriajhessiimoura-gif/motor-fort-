@@ -104,12 +104,12 @@ const Footer: React.FC = () => {
               <div className="flex items-center space-x-3">
                 <Phone size={18} className="text-red-500 flex-shrink-0" />
                 <a 
-                  href="https://wa.me/553197322809?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento"
+                  href="https://wa.me/553173228099?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento!"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm hover:text-red-500 transition-colors duration-200"
                 >
-                  (31) 9 7322-0809
+                  (31) 9 7322-8099
                 </a>
               </div>
             </div>
