@@ -39,7 +39,7 @@ Serviço: ${formData.service}
 Mensagem: ${formData.message}`;
       
       const encodedMessage = encodeURIComponent(whatsappMessage);
-      window.open("https://wa.me/553173228099?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento!", "_blank");
+      window.open("https://wa.me/553173228099?text=${encodedMessage}", "_blank");
 );
       
       // Reset form after a delay
@@ -96,7 +96,8 @@ Mensagem: ${formData.message}`;
 
                 {/* Hours */}
                 <div className="flex items-start space-x-4">
-                  <div className="bg-red-100 p-3 rounded-lg">
+                  <div c
+                    lassName="bg-red-100 p-3 rounded-lg">
                     <Clock className="w-6 h-6 text-red-600" />
                   </div>
                   <div>
