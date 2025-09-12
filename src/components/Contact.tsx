@@ -39,7 +39,8 @@ Serviço: ${formData.service}
 Mensagem: ${formData.message}`;
       
       const encodedMessage = encodeURIComponent(whatsappMessage);
-      window.open(`https://wa.me/553197322809?text=${encodedMessage}`, '_blank');
+      window.open("https://wa.me/553173228099?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento!", "_blank");
+);
       
       // Reset form after a delay
       setTimeout(() => {
