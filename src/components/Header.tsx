@@ -74,7 +74,7 @@ const Header: React.FC = () => {
               Contato
             </button>
             <a
-              href="https://wa.me/553197322809?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento"
+              href="https://wa.me/553173228099?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento!"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 rounded-full transition-all duration-200 font-semibold shadow-lg hover:shadow-xl transform hover:scale-105"
