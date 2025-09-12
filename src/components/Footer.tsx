@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
                 <Instagram size={20} />
               </a>
               <a
-                href="https://wa.me/553197322809?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento"
+                href="https://wa.me/553173228099?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gray-800 hover:bg-green-600 p-3 rounded-full transition-all duration-300 transform hover:scale-110"
