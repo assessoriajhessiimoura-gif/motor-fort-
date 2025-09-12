@@ -40,7 +40,6 @@ Mensagem: ${formData.message}`;
       
       const encodedMessage = encodeURIComponent(whatsappMessage);
       window.open("https://wa.me/553173228099?text=${encodedMessage}", "_blank");
-  
       // Reset form after a delay
       setTimeout(() => {
         setSubmitted(false);
