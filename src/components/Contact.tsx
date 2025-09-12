@@ -115,12 +115,12 @@ Mensagem: ${formData.message}`;
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">WhatsApp</h4>
                     <a 
-                      href="https://wa.me/553197322809?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento"
+                      href="https://https://wa.me/553173228099?text=Ol%C3%A1,%20%20gostaria%20de%20fazer%20um%20or%C3%A7amento!"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-600 hover:text-red-700 font-medium"
                     >
-                      (31) 9 7322-0809
+                      (31) 9 7322-8099
                     </a>
                   </div>
                 </div>
