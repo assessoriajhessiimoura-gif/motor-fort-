@@ -146,7 +146,14 @@ Mensagem: ${formData.message}`;
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Instagram</h4>
-                 
+                  <a
+                    href="https://www.instagram.com/motor.fortt?igsh=MXFnY2E1cDd4cnBrNQ=="
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-red-600 hover:text-red-700 font-medium"
+                    >
+                    @motor.fortt
+                    </a>
                 </div>
               </div>
             </div>
