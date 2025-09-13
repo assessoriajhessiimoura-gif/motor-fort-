@@ -134,7 +134,7 @@ Mensagem: ${formData.message}`;
                     href="mailto:assessoriamotorfort@gmail.com"
                     className="text-red-600 hover:text-red-700 font-medium"
                   >
-                   @motor.fortt
+                   assessoriamotorfort@gmail.com
                   </a>
                 </div>
               </div>
