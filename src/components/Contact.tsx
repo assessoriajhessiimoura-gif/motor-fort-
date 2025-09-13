@@ -131,7 +131,7 @@ Mensagem: ${formData.message}`;
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">E-mail</h4>
                   <a 
-                    href="mailto:contato@motorfort.com.br"
+                    href="mailto:assessoriamotorfort@gmail.com"
                     className="text-red-600 hover:text-red-700 font-medium"
                   >
                     contato@motorfort.com.br
@@ -146,14 +146,7 @@ Mensagem: ${formData.message}`;
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Instagram</h4>
-                  <a 
-                    href="https://instagram.com/motorfort"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-red-600 hover:text-red-700 font-medium"
-                  >
-                    @motorfort
-                  </a>
+                 
                 </div>
               </div>
             </div>
